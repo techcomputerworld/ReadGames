@@ -137,7 +137,8 @@ namespace ReadGames
             {
                 try
                 {
-                    File.CreateText(fullPath + "\\" + path1);
+                    var file1 = File.CreateText(fullPath + "\\" + path1);
+                    file1.Close();
                 }
                 catch (Exception ex)
                 {
