@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReadGames": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\onzulin\\Lanzamientos-de-videojuegos-2020-listado.txt juegospc-lista.txt"
+    }
+  }
+}

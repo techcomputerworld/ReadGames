@@ -1,0 +1,13 @@
+I:\Desarrollo_de_aplicaciones\C#\ReadGames\ReadGames\bin\Debug\netcoreapp3.1\ReadGames.exe
+I:\Desarrollo_de_aplicaciones\C#\ReadGames\ReadGames\bin\Debug\netcoreapp3.1\ReadGames.deps.json
+I:\Desarrollo_de_aplicaciones\C#\ReadGames\ReadGames\bin\Debug\netcoreapp3.1\ReadGames.runtimeconfig.json
+I:\Desarrollo_de_aplicaciones\C#\ReadGames\ReadGames\bin\Debug\netcoreapp3.1\ReadGames.runtimeconfig.dev.json
+I:\Desarrollo_de_aplicaciones\C#\ReadGames\ReadGames\bin\Debug\netcoreapp3.1\ReadGames.dll
+I:\Desarrollo_de_aplicaciones\C#\ReadGames\ReadGames\bin\Debug\netcoreapp3.1\ReadGames.pdb
+I:\Desarrollo_de_aplicaciones\C#\ReadGames\ReadGames\obj\Debug\netcoreapp3.1\ReadGames.csprojAssemblyReference.cache
+I:\Desarrollo_de_aplicaciones\C#\ReadGames\ReadGames\obj\Debug\netcoreapp3.1\ReadGames.csproj.CoreCompileInputs.cache
+I:\Desarrollo_de_aplicaciones\C#\ReadGames\ReadGames\obj\Debug\netcoreapp3.1\ReadGames.AssemblyInfoInputs.cache
+I:\Desarrollo_de_aplicaciones\C#\ReadGames\ReadGames\obj\Debug\netcoreapp3.1\ReadGames.AssemblyInfo.cs
+I:\Desarrollo_de_aplicaciones\C#\ReadGames\ReadGames\obj\Debug\netcoreapp3.1\ReadGames.dll
+I:\Desarrollo_de_aplicaciones\C#\ReadGames\ReadGames\obj\Debug\netcoreapp3.1\ReadGames.pdb
+I:\Desarrollo_de_aplicaciones\C#\ReadGames\ReadGames\obj\Debug\netcoreapp3.1\ReadGames.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Description>ReadGames is a program that gets the text strings from a plain text file and transforms:
+        (PC, PS4, One, Switch) remove that. 
+        (PS4, One) remove the line completaly
+        Because I'm only interested in PC games.</Description>
+    <Version>0.0.1.1</Version>
+    <Company>Techcomputerworld</Company>
+    <PackageLicenseFile>License-es.txt</PackageLicenseFile>
+    <RepositoryType>GIT</RepositoryType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\License-es.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
